@@ -1,0 +1,34 @@
+.buttonLetterInClueHangman{
+    -fx-text-fill: #000000;
+    -fx-background-color: #277EE7;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 5;
+}
+
+.buttonDisabledBadLetter{
+	-fx-background-color: #E71111;
+	-fx-text-fill: #000000;
+	-fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 5;
+}
+
+.buttonDisabledRightLetter{
+	-fx-background-color: #33DC2B;
+	-fx-text-fill: #000000;
+	-fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 5;
+}
+
+.normalButton{
+	-fx-font: 14px 'Serif';
+	-fx-text-fill: #000000;
+}
+
+.clueWordLabelStyle{
+	-fx-font: 22px 'Serif';
+	-fx-padding: 10;
+	-fx-background-color: #D4DAEA;
+}
